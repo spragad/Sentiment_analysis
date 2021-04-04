@@ -18,7 +18,7 @@
  3. Analysing the Sentiments:
  
       
-       Finding the sentiment scores using TextBlob. using the sentiment scores the sentimens are are classified as Strongly Positive, Positive, Week Positive, Neutral, Week              Negative, Negative, Strong Negative.
+       Finding the sentiment scores using TextBlob. using the sentiment scores the sentiments are are classified as Strongly-Positive, Positive, Week-Positive, Neutral, Week             -Negative, Negative, Strong-Negative.
        
        
  4. Results:
